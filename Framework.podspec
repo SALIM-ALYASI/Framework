@@ -2,8 +2,7 @@ Pod::Spec.new do |spec|
   spec.name         = 'Framework'
   spec.version      = '0.1.0'
   spec.authors      = {
-     "SALIM-ALYASI" => "r.m.alyasi@gmail.com" ,
-    "SALIM-ALYASI" => "r.m.alyasi@gmail.com"
+     "SALIM-ALYASI" => "r.m.alyasi@gmail.com"
   }
   spec.license      = {
     :type => 'MIT',
