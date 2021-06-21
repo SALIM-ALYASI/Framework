@@ -9,9 +9,9 @@ Pod::Spec.new do |spec|
     :type => 'MIT',
     :file => 'LICENSE'
   }
-  spec.homepage     = 'https://github.com/krotoff/Framework'
+  spec.homepage     = 'https://github.com/SALIM-ALYASI/Framework'
   spec.source       = {
-    :git => 'https://github.com/krotoff/Framework.git',
+    :git => 'https://github.com/SALIM-ALYASI/Framework.git',
     :branch => 'master',
     :tag => spec.version.to_s
   }
