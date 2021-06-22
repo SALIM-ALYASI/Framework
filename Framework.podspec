@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
     :tag => spec.version.to_s
   }
   spec.summary      = 'Custom view for example on Medium.com'
-  spec.source_files = '**/*.swift', '*.swift'
+  spec.source_files = 'Framework/**/'
   spec.swift_versions = '4.0'
   spec.ios.deployment_target = :ios, '11.0'
-end
+ end
